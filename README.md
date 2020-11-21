@@ -27,6 +27,8 @@
 - [Front End Development](#front-end-development)
 - [Security](#security)
 - [Books](#books)
+- [Videos](#videos)
+- [Miscellaneous](#miscellaneous)
 
 <br>
 
